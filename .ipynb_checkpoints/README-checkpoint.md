@@ -4,8 +4,6 @@
 
 ## Introducción
 
-En este laboratorio, utilizarás la base de datos Sakila de alquileres de películas.
-
 El objetivo de este laboratorio es ayudarte a practicar los conceptos que aprendiste en la lección y proporcionarte experiencia práctica utilizando scraping.
 
 ## Comenzando
